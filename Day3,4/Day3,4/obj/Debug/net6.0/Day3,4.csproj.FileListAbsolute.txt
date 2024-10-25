@@ -1,0 +1,14 @@
+C:\Users\srike\source\repos\Day3,4\Day3,4\bin\Debug\net6.0\Day3,4.exe
+C:\Users\srike\source\repos\Day3,4\Day3,4\bin\Debug\net6.0\Day3,4.deps.json
+C:\Users\srike\source\repos\Day3,4\Day3,4\bin\Debug\net6.0\Day3,4.runtimeconfig.json
+C:\Users\srike\source\repos\Day3,4\Day3,4\bin\Debug\net6.0\Day3,4.dll
+C:\Users\srike\source\repos\Day3,4\Day3,4\bin\Debug\net6.0\Day3,4.pdb
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.AssemblyInfoInputs.cache
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.AssemblyInfo.cs
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.dll
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\refint\Day3,4.dll
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.pdb
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\Day3,4.genruntimeconfig.cache
+C:\Users\srike\source\repos\Day3,4\Day3,4\obj\Debug\net6.0\ref\Day3,4.dll

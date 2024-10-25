@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Name": "J.K. Rowling",
+    "Nationality": "British"
+  },
+  {
+    "Id": 2,
+    "Name": "George R.R. Martin",
+    "Nationality": "American"
+  },
+  {
+    "Id": 3,
+    "Name": "J.R.R. Tolkien",
+    "Nationality": "British"
+  },
+  {
+    "Id": 4,
+    "Name": "Agatha Christie",
+    "Nationality": "British"
+  },
+  {
+    "Id": 5,
+    "Name": "Isaac Asimov",
+    "Nationality": "American"
+  }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <Id>1</Id>
+    <Name>J.K. Rowling</Name>
+    <Nationality>British</Nationality>
+  </Author>
+  <Author>
+    <Id>2</Id>
+    <Name>George R.R. Martin</Name>
+    <Nationality>American</Nationality>
+  </Author>
+  <Author>
+    <Id>3</Id>
+    <Name>J.R.R. Tolkien</Name>
+    <Nationality>British</Nationality>
+  </Author>
+  <Author>
+    <Id>4</Id>
+    <Name>Agatha Christie</Name>
+    <Nationality>British</Nationality>
+  </Author>
+  <Author>
+    <Id>5</Id>
+    <Name>Isaac Asimov</Name>
+    <Nationality>American</Nationality>
+  </Author>
+</ArrayOfAuthor>

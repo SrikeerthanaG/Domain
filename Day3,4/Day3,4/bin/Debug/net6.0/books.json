@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Title": "Harry Potter",
+    "AuthorId": 1,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 2,
+    "Title": "A Game of Thrones",
+    "AuthorId": 2,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 3,
+    "Title": "The Hobbit",
+    "AuthorId": 3,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 4,
+    "Title": "Murder on the Orient Express",
+    "AuthorId": 4,
+    "Genre": "Mystery"
+  },
+  {
+    "Id": 5,
+    "Title": "Foundation",
+    "AuthorId": 5,
+    "Genre": "Science Fiction"
+  }
+]

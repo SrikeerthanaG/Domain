@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>1</Id>
+    <Title>Harry Potter</Title>
+    <AuthorId>1</AuthorId>
+    <Genre>Fantasy</Genre>
+  </Book>
+  <Book>
+    <Id>2</Id>
+    <Title>A Game of Thrones</Title>
+    <AuthorId>2</AuthorId>
+    <Genre>Fantasy</Genre>
+  </Book>
+  <Book>
+    <Id>3</Id>
+    <Title>The Hobbit</Title>
+    <AuthorId>3</AuthorId>
+    <Genre>Fantasy</Genre>
+  </Book>
+  <Book>
+    <Id>4</Id>
+    <Title>Murder on the Orient Express</Title>
+    <AuthorId>4</AuthorId>
+    <Genre>Mystery</Genre>
+  </Book>
+  <Book>
+    <Id>5</Id>
+    <Title>Foundation</Title>
+    <AuthorId>5</AuthorId>
+    <Genre>Science Fiction</Genre>
+  </Book>
+</ArrayOfBook>
