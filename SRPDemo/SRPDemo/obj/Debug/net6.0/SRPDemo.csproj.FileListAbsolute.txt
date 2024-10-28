@@ -1,0 +1,14 @@
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.AssemblyInfoInputs.cache
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.AssemblyInfo.cs
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\bin\Debug\net6.0\SRPDemo.exe
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\bin\Debug\net6.0\SRPDemo.deps.json
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\bin\Debug\net6.0\SRPDemo.runtimeconfig.json
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\bin\Debug\net6.0\SRPDemo.dll
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\bin\Debug\net6.0\SRPDemo.pdb
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.dll
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\refint\SRPDemo.dll
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.pdb
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\SRPDemo.genruntimeconfig.cache
+C:\Users\srike\source\repos\SRPDemo\SRPDemo\obj\Debug\net6.0\ref\SRPDemo.dll
