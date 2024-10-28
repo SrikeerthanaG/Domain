@@ -1,0 +1,14 @@
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.AssemblyInfoInputs.cache
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.AssemblyInfo.cs
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.csproj.CoreCompileInputs.cache
+C:\Users\srike\source\repos\dip_task\dip_task\bin\Debug\net6.0\dip_task.exe
+C:\Users\srike\source\repos\dip_task\dip_task\bin\Debug\net6.0\dip_task.deps.json
+C:\Users\srike\source\repos\dip_task\dip_task\bin\Debug\net6.0\dip_task.runtimeconfig.json
+C:\Users\srike\source\repos\dip_task\dip_task\bin\Debug\net6.0\dip_task.dll
+C:\Users\srike\source\repos\dip_task\dip_task\bin\Debug\net6.0\dip_task.pdb
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.dll
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\refint\dip_task.dll
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.pdb
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\dip_task.genruntimeconfig.cache
+C:\Users\srike\source\repos\dip_task\dip_task\obj\Debug\net6.0\ref\dip_task.dll
